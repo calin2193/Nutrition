@@ -1,0 +1,6 @@
+{
+  "name": "NutriFoto",
+  "description": "Jurnal alimentar inteligent care calculează caloriile și macronutrienții din pozele meselor tale și îți păstrează istoricul zilnic.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
